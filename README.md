@@ -1,9 +1,9 @@
 # pyautogui-python
 Automate mouse and keyboard event using Pytautogui.
 
-# Works on
+### Works on
 Ubuntu linux
 
-# Requirements
+### Additional Requirements
 sudo apt-get install scrot
 sudo pip install opencv-python
