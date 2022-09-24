@@ -5,5 +5,5 @@ Automate mouse and keyboard event using Pytautogui.
 Ubuntu linux
 
 ### Additional Requirements
-sudo apt-get install scrot
+sudo apt-get install scrot <\br>
 sudo pip install opencv-python
